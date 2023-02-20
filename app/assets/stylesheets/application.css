@@ -13,3 +13,8 @@
  *= require_tree .
  *= require_self
  */
+.inputt:hoover {
+ 1:1
+ background-color: red;
+
+}
